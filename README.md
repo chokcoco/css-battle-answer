@@ -19,3 +19,9 @@
 + [Target #6 - Missing Slice](./Missing-Slice.md)
 
 + [Target #7 - Leafy Trail](./Leafy-Trail.md)
+
++ [Target #8 - Forking Crazy](./Forking-Crazy.md)
+
++ [Target #9 - Tesseract](./Tesseract.md)
+
++ [Target #10 - Cloaked Spirits](./Cloaked-Spirits.md)
