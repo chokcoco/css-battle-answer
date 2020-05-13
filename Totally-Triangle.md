@@ -3,5 +3,5 @@
 ![](https://cssbattle.dev/targets/13.png)
 
 ```HTML
-<style>html{background:linear-gradient(135deg,#f3ac3c 105q,#0b2429 0
+<style>*>*{background:linear-gradient(135deg,#f3ac3c 105q,#0b2429 0
 ```
