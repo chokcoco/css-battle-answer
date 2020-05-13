@@ -25,3 +25,9 @@
 + [Target #9 - Tesseract](./Tesseract.md)
 
 + [Target #10 - Cloaked Spirits](./Cloaked-Spirits.md)
+
++ [Target #11 - Eye of Sauron](./Eye-of-Sauron.md)
+
++ [Target #12 - Wiggly Moustache](./Wiggly-Moustache.md)
+
++ [Target #13 - Totally Triangle](./Totally-Triangle.md)
