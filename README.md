@@ -31,3 +31,11 @@
 + [Target #12 - Wiggly Moustache](./Wiggly-Moustache.md)
 
 + [Target #13 - Totally Triangle](./Totally-Triangle.md)
+
++ [Target #14 - Web Maker Logo](./Web-Maker-Logo.md)
+
++ [Target #15 - Overlap](./Overlap.md)
+
++ [Target #16 - Eye of the Tiger](./Eye-of-the-Tiger.md)
+
++ [Target #17 - Fidget Spinner](./Fidget-Spinner.md)
