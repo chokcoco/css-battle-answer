@@ -39,3 +39,5 @@
 + [Target #16 - Eye of the Tiger](./Eye-of-the-Tiger.md)
 
 + [Target #17 - Fidget Spinner](./Fidget-Spinner.md)
+
++ [Target #18 - Matrix](./Matrix.md)
