@@ -41,3 +41,11 @@
 + [Target #17 - Fidget Spinner](./Fidget-Spinner.md)
 
 + [Target #18 - Matrix](./Matrix.md)
+
++ [Target #19 - Cube](./Cube.md)
+
++ [Target #20 - Ticket](./Ticket.md)
+
++ [Target #22 - Cloud](./Cloud.md)
+
++ [Target #23 - Boxception](./Boxception.md)
