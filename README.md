@@ -51,3 +51,5 @@
 + [Target #23 - Boxception](./Boxception.md)
 
 + [Target #24 - Switches.md](./Switches.md)
+
++ [Target #26 - Smiley](./Smiley.md)
