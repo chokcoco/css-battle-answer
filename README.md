@@ -53,3 +53,11 @@
 + [Target #24 - Switches.md](./Switches.md)
 
 + [Target #26 - Smiley](./Smiley.md)
+
++ [Target #27 - Lock Up](./LockUp.md)
+
++ [Target #29 - Suffocate](./Suffocate.md)
+
++ [Target #30 - Horizon](./Horizon.md)
+
++ [Target #31 - Equals](./Equals.md)
