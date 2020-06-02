@@ -46,11 +46,15 @@
 
 + [Target #20 - Ticket](./Ticket.md)
 
++ [Target #21 - SitePoint Logo.md](./SitePoint-Logo.md)
+
 + [Target #22 - Cloud](./Cloud.md)
 
 + [Target #23 - Boxception](./Boxception.md)
 
 + [Target #24 - Switches.md](./Switches.md)
+
++ [Target #25 - Blossom.md](./Blossom.md)
 
 + [Target #26 - Smiley](./Smiley.md)
 
