@@ -65,3 +65,7 @@
 + [Target #30 - Horizon](./Horizon.md)
 
 + [Target #31 - Equals](./Equals.md)
+
++ [Target #32 - Band-aid](./Band-aid.md)
+
++ [Target #33 - Birdie](./Birdie.md)
