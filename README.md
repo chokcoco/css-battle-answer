@@ -1,6 +1,6 @@
 # CSS-battle-answer
 
-[CSS-battle](https://cssbattle.dev/) 的个人非最优解法。
+[cssbattle](https://cssbattle.dev/) 的个人非最优解法。
 
 > 自己做的答案，并非最佳答案（字符数最少），如果你有更好的答案，欢迎提 PR。
 
