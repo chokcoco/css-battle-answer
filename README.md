@@ -69,3 +69,18 @@
 + [Target #32 - Band-aid](./Band-aid.md)
 
 + [Target #33 - Birdie](./Birdie.md)
+
++ [Target #34 - Christmas Tree](./Christmas-Tree.md)
+
++ [Target #35 - Ice Cream](./Ice-Cream.md)
+
++ [Target #36 - Interleaved](./Interleaved.md)
+
++ [Target #37 - Tunnel](./Tunnel.md)
+
++ [Target #38 - Not Simply Square](./Not-Simply-Square.md)
+
++ [Target #39 - Sunset](./Sunset.md)
+
++ [Target #40 - Letter B](./Letter-B.md)
+
