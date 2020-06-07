@@ -60,6 +60,8 @@
 
 + [Target #27 - Lock Up](./LockUp.md)
 
++ [Target #28 - Cups & Balls](./Cups-Balls.md)
+
 + [Target #29 - Suffocate](./Suffocate.md)
 
 + [Target #30 - Horizon](./Horizon.md)
