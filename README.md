@@ -86,3 +86,8 @@
 
 + [Target #40 - Letter B](./Letter-B.md)
 
++ [Target #41 - Fox Head](./Fox-Head.md)
+
++ [Target #42 - Baby](./Baby.md)
+
++ [Target #43 - Wrench](./Wrench.md)
