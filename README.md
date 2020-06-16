@@ -91,3 +91,9 @@
 + [Target #42 - Baby](./Baby.md)
 
 + [Target #43 - Wrench](./Wrench.md)
+
++ [Target #44 - Stripes](./Stripes.md)
+
++ [Target #45 - Magical Tree](./Magical-Tree.md)
+
++ [Target #46 - Mountains](./Mountains.md)
