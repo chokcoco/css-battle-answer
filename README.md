@@ -97,3 +97,9 @@
 + [Target #45 - Magical Tree](./Magical-Tree.md)
 
 + [Target #46 - Mountains](./Mountains.md)
+
++ [Target #47 - Corona Virus](./Corona-Virus.md)
+
++ [Target #48 - Wash You Hands.md](./Wash-Your-Hands.md)
+
++ [Target #49 - Stay at Home](./Stay-at-Home.md)
