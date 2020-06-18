@@ -103,3 +103,9 @@
 + [Target #48 - Wash You Hands.md](./Wash-Your-Hands.md)
 
 + [Target #49 - Stay at Home](./Stay-at-Home.md)
+
++ [Target #50 - Use Hand Sanitizer](./Use-Hand-Sanitizer.md)
+
++ [Target #51 - Wear a Mask](./Wear-a-Mask.md)
+
++ [Target #52 - Break the Chain](./Break-the-Chain.md)
