@@ -2,7 +2,10 @@
 
 [cssbattle](https://cssbattle.dev/) 的个人非最优解法。
 
-> 自己做的答案，并非最佳答案（字符数最少），如果你有更好的答案，欢迎提 PR。
+> 自己做的答案，并非最佳答案（字符数最少），如果你有更好的答案，欢迎提 PR，或者进 QQ 群一起讨论。
+
+> ![qun](https://github.com/chokcoco/iCSS/blob/master/qqqun.png)。
+
 
 ## LIST
 
