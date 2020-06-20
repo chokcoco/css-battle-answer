@@ -113,4 +113,4 @@
 
 + [Target #52 - Break the Chain](./Break-the-Chain.md)
 
-+ [Target #52 - Pastel Logo](./Pastel-Logo.md)
++ [Target #53 - Pastel Logo](./Pastel-Logo.md)
