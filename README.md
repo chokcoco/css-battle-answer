@@ -112,3 +112,5 @@
 + [Target #51 - Wear a Mask](./Wear-a-Mask.md)
 
 + [Target #52 - Break the Chain](./Break-the-Chain.md)
+
++ [Target #52 - Pastel Logo](./Pastel-Logo.md)
