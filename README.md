@@ -1,6 +1,6 @@
 # CSS-battle-answer
 
-Part of my non-best answer about [cssbattle](https://cssbattle.dev/) 。
+Partial non-optimal solution of [CSSbattle](https://cssbattle.dev/) 。
 
 > 自己做的答案，并非最佳答案（字符数最少），如果你有更好的答案，欢迎提 PR，或者进 QQ 群一起讨论。
 
